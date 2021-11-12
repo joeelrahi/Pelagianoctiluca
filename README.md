@@ -3,6 +3,5 @@ An individual-based model built over the general framework OpenDrift (https://op
 
 For a thorough desciption check (El Rahi et al. 2020)
 
-List of Publications:
 Modelling the effect of behavior on the distribution of the jellyfish Mauve stinger (Pelagia noctiluca) in the Balearic Sea using an individual-based model:
 https://www.sciencedirect.com/science/article/pii/S0304380020303008
